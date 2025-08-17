@@ -32,8 +32,13 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the **
 ---
 
 ## 📂 Project Structure
+
 📁 Covid19-EDA
+
 ├── 📓 covid19_eda.ipynb # Main notebook with EDA
+
 ├── 📄 requirements.txt # Dependencies
+
 ├── 📄 README.md # Project description
+
 └── 📂 visuals/ # Plots and graphs generated
