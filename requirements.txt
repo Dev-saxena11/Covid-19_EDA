@@ -1,0 +1,10 @@
+# Core data analysis libraries
+pandas>=2.0
+numpy>=1.24
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Jupyter environment
+jupyter
